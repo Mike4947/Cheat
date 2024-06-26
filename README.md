@@ -4,7 +4,7 @@
 
 > [These menus](https://github.com/Mike4947/Cheat/releases) are examples only and do not provide any real cheats.
 
-Licence
+
 
 
 # 📚 Python Tkinter Cheat GUI
