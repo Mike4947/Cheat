@@ -4,7 +4,7 @@
 
 > [These menus](https://github.com/Mike4947/Cheat/releases) are examples only and do not provide any real cheats.
 
-
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
 
 # 📚 Python Tkinter Cheat GUI
